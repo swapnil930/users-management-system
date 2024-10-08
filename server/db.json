@@ -1,0 +1,66 @@
+{
+  "contacts": [
+    {
+      "id": "90d5",
+      "name": "Suresh",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "9834559696",
+      "email": "suresh@123gmail.com",
+      "company": "Accenture",
+      "groupId": "Colleague"
+    },
+    {
+      "name": "Tejas",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "9834273755",
+      "email": "tejas123@gmail.com",
+      "company": "TCS",
+      "groupId": "Friend",
+      "id": "bd82"
+    },
+    {
+      "id": "9bc6",
+      "name": "Durgesh",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "983455667",
+      "email": "durgesh@123gmail",
+      "company": "TCS",
+      "groupId": "Friend"
+    },
+    {
+      "id": "2adc",
+      "name": "Swapnil",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "9834559696",
+      "email": "kswapnil930@gmail.com",
+      "company": "Accenture",
+      "groupId": "Collage"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Social"
+    },
+    {
+      "id": "4",
+      "name": "College"
+    },
+    {
+      "id": "5",
+      "name": "Friends"
+    },
+    {
+      "id": "6",
+      "name": "Community"
+    }
+  ]
+}
